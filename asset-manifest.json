@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test-react-portfolio/static/css/main.cfb834ed.chunk.css",
+    "main.js": "/test-react-portfolio/static/js/main.6a9fcd7c.chunk.js",
+    "main.js.map": "/test-react-portfolio/static/js/main.6a9fcd7c.chunk.js.map",
+    "runtime-main.js": "/test-react-portfolio/static/js/runtime-main.1832ce02.js",
+    "runtime-main.js.map": "/test-react-portfolio/static/js/runtime-main.1832ce02.js.map",
+    "static/js/2.102548e6.chunk.js": "/test-react-portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/test-react-portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/test-react-portfolio/index.html",
+    "precache-manifest.6b714e2f800be850d7e8ebeafefb874d.js": "/test-react-portfolio/precache-manifest.6b714e2f800be850d7e8ebeafefb874d.js",
+    "service-worker.js": "/test-react-portfolio/service-worker.js",
+    "static/css/main.cfb834ed.chunk.css.map": "/test-react-portfolio/static/css/main.cfb834ed.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/test-react-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/calculator.jpg": "/test-react-portfolio/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.jpg": "/test-react-portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/led-wall.jpg": "/test-react-portfolio/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/test-react-portfolio/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/run-buddy.jpg": "/test-react-portfolio/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/test-react-portfolio/static/media/surf-report.12557c9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1832ce02.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.cfb834ed.chunk.css",
+    "static/js/main.6a9fcd7c.chunk.js"
+  ]
+}
